@@ -1,0 +1,54 @@
+2022 SAQ3A,<bos>```{"Total_score": 1,"Justification": 0}<eos>,1,2,1.512211799621582
+2022 SAQ3A,<bos>{"Total_score": 1,"Justification": 0}{"Total_score": 0,"Justification": 1}<eos>,1,1,2.1969516277313232
+2022 SAQ3A,<bos>{"Total_score": 1,"Justification": 0 - The essay does not show an increasing emphasis on secular life and achievements as opposed to religious life.}{"Total_score": 0,"Justification": 1 - The essay focuses on the use of classical models for art, literature, and politics.}{"Total_score": 1,"Justification": 0 - The essay focuses on the focus on,0,-1,5.334402561187744
+2022 SAQ3B,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.2611379623413086
+2022 SAQ3B,<bos>{"Total_score": 1,"Justification": 2}{"Total_score": 0,"Justification": 3}<eos>,1,2,2.223742961883545
+2022 SAQ3B,<bos>{"Total_score": 1,"Justification": 2}{"Total_score": 0,"Justification": 3}<eos>,1,2,2.195237874984741
+2022 SAQ3C,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.3686468601226807
+2022 SAQ3C,<bos>{"Total_score": 1,"Justification": 0}{"Total_score": 0,"Justification": 1}<eos>,0,-1,2.2049756050109863
+2022 SAQ3C,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.3783466815948486
+2022 SAQ4A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,3,1.3861002922058105
+2022 SAQ4A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,2,1.4053962230682373
+2022 SAQ4A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.3811087608337402
+2022 SAQ4B,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,4,1.3784983158111572
+2022 SAQ4B,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.373427152633667
+2022 SAQ4B,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.3912498950958252
+2022 SAQ4C,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.2650980949401855
+2022 SAQ4C,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.2589795589447021
+2022 SAQ4C,<bos>{"Total_score": 1,"Justification": 0}{"Total_score": 0,"Justification": 1}<eos>,0,-1,2.213517189025879
+2021 SAQ3A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,8,1.6177661418914795
+2021 SAQ3A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,6,1.5772662162780762
+2021 SAQ3A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.586646556854248
+2021 SAQ3B,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,3,1.3827121257781982
+2021 SAQ3B,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.2636051177978516
+2021 SAQ3B,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.2639281749725342
+2021 SAQ3C,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,2,1.5935864448547363
+2021 SAQ3C,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.5909500122070312
+2021 SAQ3C,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.4527170658111572
+2021 SAQ4A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,4,1.4406688213348389
+2021 SAQ4A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.4059197902679443
+2021 SAQ4A,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.4103848934173584
+2021 SAQ4B,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.2702677249908447
+2021 SAQ4B,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.2628090381622314
+2021 SAQ4B,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.3892762660980225
+2021 SAQ4C,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,6,1.4157240390777588
+2021 SAQ4C,<bos>{"Total_score": 1,"Justification": 0 - The essay clearly demonstrates the state security authorities' ability to execute or imprison people with no effective restraint on their power.}{"Total_score": 0,"Justification": 1 - The essay demonstrates the state control of the economy, the suppression of free speech and the use of torture and imprisonment to silence dissent.}<eos>,1,5,5.050797462463379
+2021 SAQ4C,<bos>{"Total_score": 1,"Justification": 0 - The essay clearly violates the principles of freedom of expression and the right to dissent.}{"Total_score": 0,"Justification": 1 - The essay violates several of the principles of freedom of expression and the right to dissent, including state security authorities having the ability to execute or imprison people without effective restraint, lack of free choice in elections, and control over the economy.<eos>,1,5,5.583842515945435
+2019 SAQ3A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.3852741718292236
+2019 SAQ3A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.2749102115631104
+2019 SAQ3A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.2787024974822998
+2019 SAQ3B,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.3002862930297852
+2019 SAQ3B,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.2733569145202637
+2019 SAQ3B,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.2822699546813965
+2019 SAQ3C,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,1.4150104522705078
+2019 SAQ3C,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.4283814430236816
+2019 SAQ3C,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.281040906906128
+2019 SAQ4A,<bos>{"Total_score": 1,"Justification": 5}<eos>,1,9,1.598149299621582
+2019 SAQ4A,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,2,1.588289499282837
+2019 SAQ4A,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.5836870670318604
+2019 SAQ4B,<bos>{"Total_score": 1,"Justification": 0}{"Total_score": 0,"Justification": 1}<eos>,1,6,2.5972847938537598
+2019 SAQ4B,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,2,3,4,1.5954318046569824
+2019 SAQ4B,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,1,3,1.6040964126586914
+2019 SAQ4C,<bos>{"Total_score": 1,"Justification": 0}<eos>,1,4,1.6063830852508545
+2019 SAQ4C,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.6354126930236816
+2019 SAQ4C,<bos>{"Total_score": 1,"Justification": 0}<eos>,0,-1,1.4420466423034668
